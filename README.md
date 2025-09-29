@@ -23,7 +23,8 @@
 Repositories where I store code written while learning different languages and concepts:
 - [**StudyCpp**](https://github.com/FancyXGit/StudyCpp) – C++ basics and exercises  
 - [**StudyJava**](https://github.com/FancyXGit/StudyJava) – Java fundamentals and OOP practices  
-- [**StudyGo**](https://github.com/FancyXGit/StudyGo) – Learning Go for backend development  
+- [**StudyGo**](https://github.com/FancyXGit/StudyGo) – Learning Go for backend development
+- [**StudyPython**](https://github.com/FancyXGit/StudyPython) – Python learning notes and code for **CS61A**  
 
 ### 💻 Problem-Solving
 Repositories for algorithm and data structure practice:
