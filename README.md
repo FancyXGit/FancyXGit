@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me
 - 🎓 I’m currently a **second-year Computer Science student**.  
 - 📚 Currently learning:
-  - **Data Structures & Algorithms** with C/C++
+  - **Data Structures & Algorithms** with C/C++, JAVA
   - **Web Backend Development** with Go
   - **Machine Learning** with Python  
 - 🚀 Passionate about problem-solving, exploring new technologies, and building practical projects to strengthen my skills.
@@ -13,7 +13,8 @@
 ## 🎮 Games I Enjoy
 - 🗡️ **Souls-like:** *Elden Ring*, *Sekiro: Shadows Die Twice*, *Dark Souls III*  
 - 🌱 **Casual:** *Minecraft*, *Stardew Valley*  
-- ⚔️ **RPG:** *Red Dead Redemption*, *Ghost of Tsushima*  
+- ⚔️ **RPG:** *Red Dead Redemption*, *Ghost of Tsushima*
+- 🛡️ **Tank Battle:** *World of Tanks*
 
 ---
 
@@ -23,6 +24,7 @@
 Repositories where I store code written while learning different languages and concepts:
 - [**StudyCpp**](https://github.com/FancyXGit/StudyCpp) – C++ basics and exercises  
 - [**StudyJava**](https://github.com/FancyXGit/StudyJava) – Java fundamentals and OOP practices  
+- [**CS61B**](https://github.com/FancyXGit/CS61B) – JAVA learning notes and code for **CS61B** Data Structure
 - [**StudyGo**](https://github.com/FancyXGit/StudyGo) – Learning Go for backend development
 - [**StudyPython**](https://github.com/FancyXGit/StudyPython) – Python learning notes and code for **CS61A**  
 
@@ -34,14 +36,7 @@ Repositories for algorithm and data structure practice:
 ### 🔧 Practical Projects
 Repositories for hands-on coding projects:
 - [**Simple-Puzzle-Game-Based-On-Java**](https://github.com/FancyXGit/StudyJava) – A simple puzzle game built with Java to practice basic syntax and OOP  
-
----
-
-## 🌱 Goals
-- Strengthen my **algorithmic thinking** through consistent problem-solving.  
-- Improve **backend development skills** with Go.  
-- Gain deeper understanding of **machine learning concepts** and practical applications.  
-- Contribute to open-source projects and share my learning journey.
+- [**SimpleExcel**](https://github.com/FancyXGit/SimpleExcel) – A simple Python + PyQt5 desktop spreadsheet app（not published yet)
 
 ---
 
