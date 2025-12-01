@@ -29,8 +29,7 @@ Repositories where I store code written while learning different languages and c
 - [**StudyPython**](https://github.com/FancyXGit/StudyPython) – Python learning notes and code for **CS61A**  
 
 ### 💻 Problem-Solving
-Repositories for algorithm and data structure practice:
-- [**DataStructureAlgorithmC**](https://github.com/FancyXGit/DataStructuresAlgorithmsC) – Data structure and algorithm implementations in C  
+Repositories for algorithm and data structure practice: 
 - [**leetcode**](https://github.com/FancyXGit/leetcode) – My solutions to LeetCode problems  
 
 ### 🔧 Practical Projects
