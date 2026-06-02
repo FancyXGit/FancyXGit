@@ -23,7 +23,7 @@ https://fancyflow.top/
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FancyXGit&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FancyXGit)
 
 ---
 
