@@ -21,12 +21,6 @@ https://fancyflow.top/
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FancyXGit)
-
----
-
 ## 📫 Get in Touch
 
 I’m always open to learning and collaboration.  
